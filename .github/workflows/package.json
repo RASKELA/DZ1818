@@ -1,0 +1,3 @@
+"scripts": {
+  "test:firefox": "cypress run --browser firefox"
+}
